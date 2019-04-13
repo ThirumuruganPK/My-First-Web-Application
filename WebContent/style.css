@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+h2{
+	background-color:#408080;
+}
+.space{
+	margin-left:20px;
+}
+.form_style{
+	padding:20px;
+	color:red;
+}
